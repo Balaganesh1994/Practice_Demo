@@ -16,7 +16,7 @@ variable "aws_region" {
 variable "ami" {
     description = "Ubuntu"
     type = string
-    default     = "ami-0f5ee92e2d63afc18"
+    default     = "ami-08b5b3a93ed654d19"
 }
 variable "instance_type" {
    type        = string
